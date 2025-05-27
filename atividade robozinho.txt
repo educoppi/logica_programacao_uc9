@@ -1,0 +1,47 @@
+Mova a garra para a lampada velha
+
+feche a garra
+
+Gire a garra para 180 graus sentido horário
+
+Gire a garra para 180 graus sentido horário
+
+Mova a garra para a mesa
+
+Abra a garra
+
+Mova a garra para a lampada nova
+
+feche a garra
+
+Mova a garra para o colocador de lampadas
+
+gire a garra para 180 graus anti-horario
+
+gire a garra para 180 graus anti-horario
+
+abra a garra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
