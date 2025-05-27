@@ -1,0 +1,26 @@
+
+Se semafaro estiver verde
+	Espere 
+
+Se não
+	Atravesse
+
+Gire 90 graus para direita
+
+Se estiver vindo carros 
+	Espere
+
+Se não
+	Atravesse
+
+Gire 90 graus para a direita
+
+Se semafaro estiver verde
+	Espere
+
+Se não
+	Atravesse
+
+
+
+
